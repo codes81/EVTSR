@@ -1,6 +1,6 @@
 # EvTSR: Event-Guided Scene Text Image Super-Resolution
 
-This is the official repository for the **AAAI-26** paper: **"Event-Guided Scene Text Image Super-Resolution"**.
+This repository contains the official open-source code for our work, **"Event-Guided Scene Text Image Super-Resolution"** (**AAAI-26**).
 
 ## 📜 Abstract
 
